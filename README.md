@@ -1,6 +1,3 @@
-node file-parser.js /csv/data.csv  someData.csv
-npm run test
-
 
 To start the app
 
