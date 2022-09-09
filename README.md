@@ -10,7 +10,7 @@ To Use the App
 Run the command "node file-parser.js /csv/data.csv  someData.csv"
 
 From the Command above
-"/csv/data.csv"  is the input path while  "someData.csv" is the name of the output in csv.  
+"/csv/data.csv"  is the input path where  "someData.csv" is the name of the output in csv.  
 
 If you do not provide the output path, a default name will be provided for you
 
