@@ -1,12 +1,11 @@
 
-To start the app
+A) To start the app
 
-1) Run npm install to download the dependencies
+ Run npm install to download the dependencies
 
 
 
-To Use the App
-
+B) To Use the App
 Run the command "node file-parser.js /csv/data.csv  someData.csv"
 
 From the Command above
@@ -16,10 +15,10 @@ If you do not provide the output path, a default name will be provided for you
 
 
 
-Unit Test
+C) Unit Test
 The unit test framework that was used was "Jest" .  To run the test, simply type "npm test"
 
 
 
-Test Input
+D) Test Input
 There is a file called data.csv under /csv folder for my test input
